@@ -3,6 +3,7 @@
 ## Overview
 CyberSecurityChatbot is a C# console application created for Part 1 of the PROG6221 POE.  
 The chatbot helps users learn about basic cybersecurity topics such as password safety, phishing, and safe browsing.
+This project was developed using Visual Studio and C# as a console-based chatbot application.
 
 ## Features
 - Voice greeting using a WAV audio file
