@@ -63,7 +63,7 @@ class Program
             if (string.IsNullOrWhiteSpace(userInput))
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("Bot: Please enter something.");
+                Console.WriteLine("Bot: Please enter something so I can help you.");
                 Console.ResetColor();
                 continue;
             }
