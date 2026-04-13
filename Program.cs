@@ -16,6 +16,7 @@ class Program
         // Set the console window title
         Console.Title = "Cybersecurity Awareness Bot";
 
+        // Load and play the greeting audio file from the output folder
         // Play voice greeting when chatbot starts
         try
         {
