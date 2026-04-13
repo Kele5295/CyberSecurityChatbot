@@ -125,7 +125,7 @@ class Program
         }
         else if (input.Contains("password"))
         {
-            return "Use strong passwords with uppercase letters, lowercase letters, numbers, and symbols. Avoid using personal information and never share your password.";
+            return "Use strong passwords with uppercase letters, lowercase letters, numbers, and symbols. Avoid using personal information and change your passwords regularly.";
         }
         else if (input.Contains("phishing"))
         {
