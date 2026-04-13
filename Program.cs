@@ -4,7 +4,7 @@ using System.Media;
 
 class Program
 {
-    // Entry point of the application
+    // Main entry point of the application
     static void Main(string[] args)
     {
         StartChatbot(); // Start the chatbot
