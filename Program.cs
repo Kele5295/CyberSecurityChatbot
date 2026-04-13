@@ -93,6 +93,7 @@ class Program
     // This method displays the ASCII art logo/header
     static void DisplayAsciiArt()
     {
+     // Display decorative chatbot banner
         Console.ForegroundColor = ConsoleColor.Cyan;
         Console.WriteLine("====================================================");
         Console.WriteLine("   _____       _                ____        _      ");
