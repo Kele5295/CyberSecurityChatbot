@@ -57,3 +57,5 @@ GitHub Actions is used to build the project automatically on each push.
 ## Author
 Kelebogile FrankLebese
 ST10486796
+
+Project completed successfully.
