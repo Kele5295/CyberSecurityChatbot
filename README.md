@@ -59,3 +59,6 @@ Kelebogile FrankLebese
 ST10486796
 
 Project completed successfully.
+
+## Screenshot of Successful CI Run
+![CI Success](ci-success.png)
